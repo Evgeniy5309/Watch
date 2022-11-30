@@ -1,0 +1,42 @@
+body{
+	font-family: Arial, sans-seif;
+	color: #000;
+	margin: 0;
+	padding: 0;
+	font-weight: 400;
+}
+* {
+	box-sizing: border-box;
+}
+h1{
+	line-height: 1.19em;
+	font-weight: 700;
+}
+.intro{
+	font-size: 18px;
+	margin: 30px 0;
+}
+.button{
+	background: red;
+	border-radius: 100px;
+	font-size: 18px;
+	color: #000;
+	text-decoration: none;
+	padding: 15px 50px;
+	font-weight: 700;
+	line-height: 1.19em;
+	display: block;
+	width: 200px;
+}
+.rosa{
+	width: 400px;
+	margin-left: 180px;
+}
+.image{
+	width: 450px;
+	border-radius: 100px;
+}
+.blok{
+	display: flex;
+	align-items: center;
+}
